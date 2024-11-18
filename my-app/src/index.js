@@ -4,7 +4,6 @@ import {
   BrowserRouter, Routes, Route
 } from 'react-router-dom';
 import { AppProvider } from './context';
-
 import './index.css';
 import Home from './pages/Home/Home';
 import About from "./pages/About/About";
